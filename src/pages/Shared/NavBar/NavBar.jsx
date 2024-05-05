@@ -38,14 +38,7 @@ const NavBar = () => {
                 </button>
             </Link>
         </li>
-        {
-            user ? <>
-                {/* <span>{user?.displayName}</span> */}
-                <button onClick={handleLogOut} className="btn btn-ghost">LogOut</button>
-            </> : <>
-                <li><Link to="/login">Login</Link></li>
-            </>
-        }
+      
     </>
 
     return (
@@ -60,15 +53,22 @@ const NavBar = () => {
                             {navOptions}
                         </ul>
                     </div>
-                    <a className="btn btn-ghost normal-case text-xl">Bistro Boss</a>
+                    <a className="btn btn-ghost normal-case text-xl">UrbanEats</a>
                 </div>
                 <div className="navbar-center hidden lg:flex">
                     <ul className="menu menu-horizontal px-1">
                         {navOptions}
                     </ul>
                 </div>
-                <div className="navbar-end">
-                    <a className="btn">Get started</a>
+                <div className="navbar-end px-5 list-none">
+                {
+            user ? <>
+                {/* <span>{user?.displayName}</span> */}
+                <button onClick={handleLogOut} className="btn btn-ghost">LogOut</button>
+            </> : <>
+                <li><Link to="/login">Login</Link></li>
+            </>
+        }
                 </div>
             </div>
         </>

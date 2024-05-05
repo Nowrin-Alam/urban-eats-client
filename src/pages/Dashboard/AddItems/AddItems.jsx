@@ -5,7 +5,7 @@ import useAxiosPublic from "../../../hooks/useAxiosPublic";
 import useAxiosSecure from "../../../hooks/useAxiosSecure";
 import Swal from "sweetalert2";
 
-const image_hosting_key = import.meta.env.VITE_IMAGE_HOSTING_KEY;
+const image_hosting_key = import.meta.env.VITE_Image_Upload_Token;
 const image_hosting_api = `https://api.imgbb.com/1/upload?key=${image_hosting_key}`;
 
 const AddItems = () => {
@@ -27,7 +27,7 @@ const AddItems = () => {
                 name: data.name,
                 category: data.category,
                 price: parseFloat(data.price),
-                recipe: data.recipe,
+                ingredients: data.ingredients,
                 image: res.data.data.display_url
             }
             // 
@@ -73,8 +73,7 @@ const AddItems = () => {
                             <select defaultValue="default" {...register('category', { required: true })}
                                 className="select select-bordered w-full">
                                 <option disabled value="default">Select a category</option>
-                                <option value="salad">Salad</option>
-                                <option value="pizza">Pizza</option>
+                                <option value="main">Main Course</option>
                                 <option value="soup">Soup</option>
                                 <option value="dessert">Dessert</option>
                                 <option value="drinks">Drinks</option>
@@ -97,9 +96,9 @@ const AddItems = () => {
                     {/* recipe details */}
                     <div className="form-control">
                         <label className="label">
-                            <span className="label-text">Recipe Details</span>
+                            <span className="label-text">Ingredients</span>
                         </label>
-                        <textarea {...register('recipe')} className="textarea textarea-bordered h-24" placeholder="Bio"></textarea>
+                        <textarea {...register('recipe')} className="textarea textarea-bordered h-24" placeholder="Ingredients"></textarea>
                     </div>
 
                     <div className="form-control w-full my-6">

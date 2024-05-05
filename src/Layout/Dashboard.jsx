@@ -1,4 +1,4 @@
-import { FaAd, FaBook, FaCalendar, FaEnvelope, FaHome, FaList, FaSearch, FaShoppingCart, FaUsers, FaUtensils } from "react-icons/fa";
+import { FaEnvelope, FaHome, FaList, FaSearch, FaShoppingCart, FaUsers, FaUtensils } from "react-icons/fa";
 import { NavLink, Outlet } from "react-router-dom";
 import useCart from "../hooks/useCart";
 import useAdmin from "../hooks/useAdmin";
@@ -32,11 +32,7 @@ const Dashboard = () => {
                                     <FaList></FaList>
                                     Manage Items</NavLink>
                             </li>
-                            <li>
-                                <NavLink to="/dashboard/bookings">
-                                    <FaBook></FaBook>
-                                    Manage Bookings</NavLink>
-                            </li>
+                            
                             <li>
                                 <NavLink to="/dashboard/users">
                                     <FaUsers></FaUsers>
@@ -50,20 +46,11 @@ const Dashboard = () => {
                                         <FaHome></FaHome>
                                         User Home</NavLink>
                                 </li>
-                                <li>
-                                    <NavLink to="/dashboard/history">
-                                        <FaCalendar></FaCalendar>
-                                        Not History</NavLink>
-                                </li>
+                        
                                 <li>
                                     <NavLink to="/dashboard/cart">
                                         <FaShoppingCart></FaShoppingCart>
                                         My Cart ({cart.length})</NavLink>
-                                </li>
-                                <li>
-                                    <NavLink to="/dashboard/review">
-                                        <FaAd></FaAd>
-                                        Add a Review</NavLink>
                                 </li>
                                 <li>
                                     <NavLink to="/dashboard/paymentHistory">
