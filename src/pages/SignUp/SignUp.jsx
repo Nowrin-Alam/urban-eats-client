@@ -87,15 +87,15 @@ const SignUp = () => {
                 </label>
                 <input
                   type="text"
-                  {...register("photoURL", { required: true })}
+                  {...register("photoURL", { required: false })}
                   placeholder="Photo URL"
                   className="input input-bordered"
                 />
                 {errors.photoURL && (
-                  <span className="text-red-600">Photo URL is required</span>
+                  <span className="text-red-600">Photo URL</span>
                 )}
               </div>
-              <div className="form-control">
+              <div className="form-control hidden">
                 <label className="label">
                   <span className="label-text">Role</span>
                 </label>

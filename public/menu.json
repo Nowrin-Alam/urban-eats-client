@@ -1,0 +1,830 @@
+[
+
+ 
+
+    {
+    
+        "_id": "01",
+    
+        "name": "Classic Chicken Noodle Soup",
+    
+        "ingredients": ["Chicken", "Noodles", "Vegetables", "Broth"],
+    
+        "image": "https://www.cubesnjuliennes.com/wp-content/uploads/2022/01/Chicken-Noodle-Soup-2.jpg",
+    
+        "category": "soup",
+    
+        "price": 500
+    
+      },
+    
+      {
+    
+        "_id": "02",
+    
+        "name": "Tomato Basil Soup",
+    
+        "ingredients": ["Tomato", "Basil", "Onion", "Garlic", "Broth"],
+    
+        "image": "https://avirtualvegan.com/wp-content/uploads/2022/08/Tomato-Basil-Soup-A-Virtual-Vegan-1.jpg",
+    
+        "category": "soup",
+    
+        "price": 200
+    
+      },
+    
+      {
+    
+        "_id": "03",
+    
+        "name": "Lentil Soup",
+    
+        "ingredients": ["Lentils", "Vegetables", "Broth"],
+    
+        "image": "https://www.eatingwell.com/thmb/9XxT6380YgqCoUsn1mCWF3E8KF4=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/vegan-medit-lentil-soup-1244-24a3c52cba884b00867fd834988c52b0.jpg",
+    
+        "category": "popular",
+    
+       "price": 150
+    
+      },
+    
+      {
+    
+        "_id": "04",
+    
+        "name": "Lentil Soup",
+    
+        "ingredients": ["Lentils", "Vegetables", "Broth"],
+    
+        "image": "https://www.eatingwell.com/thmb/9XxT6380YgqCoUsn1mCWF3E8KF4=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/vegan-medit-lentil-soup-1244-24a3c52cba884b00867fd834988c52b0.jpg",
+    
+        "category": "soup",
+    
+        "price": 150
+    
+      },
+    
+      {
+    
+        "_id": "05",
+    
+        "name": "Minestrone Soup",
+    
+        "ingredients": ["Beans", "Tomato", "Carrots", "Celery", "Pasta", "Broth"],
+    
+        "image": "https://thecozycook.com/wp-content/uploads/2023/09/Minestrone-Soup-2-.jpg",
+    
+        "category": "soup",
+    
+        "price": 400
+    
+      },
+    
+      {
+    
+        "_id": "06",
+    
+        "name": "Mushroom Barley Soup",
+    
+        "ingredients": ["Mushrooms", "Barley", "Vegetables", "Broth"],
+    
+        "image": "https://www.eatingwell.com/thmb/nYCFE_w2jmiVIXq7XOSCgaCAVGU=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/4146936-85db84f4b6ca4e3d9246320f05e96d21.jpg",
+    
+        "category": "soup",
+    
+        "price": 14.5
+    
+      },
+    
+      {
+    
+        "_id": "07",
+    
+        "name": "Thai Coconut Soup",
+    
+        "ingredients": ["Coconut milk", "Lemongrass", "Galangal", "Chili", "Vegetables", "Broth"],
+    
+        "image": "https://theviewfromgreatisland.com/wp-content/uploads/2012/02/Thai-coconut-soup-8502467-January-19-2020-2-600x400.jpg",
+    
+        "category": "soup",
+    
+        "price": 600
+    
+      },
+    
+      {
+    
+        "_id": "08",
+    
+        "name": "Potato Leek Soup",
+    
+        "ingredients": ["Potatoes", "Leeks", "Onion", "Garlic", "Cream", "Broth"],
+    
+        "image": "https://www.seriouseats.com/thmb/FAhRImwmn46Iwb6fHGiUhQjNsjs=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/best-potato-leek-soup-recipe-hero-03-bd6168116090427b91f1c0957dbb1024.jpg",
+    
+        "category": "soup",
+    
+        "price": 300
+    
+      },
+    
+      {
+    
+        "_id": "09",
+    
+        "name": "Butternut Squash Soup",
+    
+        "ingredients": ["Butternut squash", "Onion", "Garlic", "Coconut milk", "Broth"],
+    
+        "image": "https://www.allrecipes.com/thmb/chSZ-yoFsB35KZNWp0Uc1uQbSrM=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/245272-Chef-Johns-Roasted-Butternut-Squash-Soup-DDMFS-001-4x3-41edb2586f774a64a7240e13d7765ce2.jpg",
+    
+        "category": "soup",
+    
+        "price": 700
+    
+      },
+    
+      {
+    
+        "_id": "10",
+    
+        "name": "Cauliflower and Broccoli Soup",
+    
+        "ingredients": ["Cauliflower", "Broccoli", "Onion", "Garlic", "Cream", "Broth"],
+    
+        "image": "https://carveyourcraving.com/wp-content/uploads/2019/03/Vegan-broccoli-soup-instant-pot-recipe.jpg",
+    
+        "category": "soup",
+    
+        "price": 1300
+    
+      } ,
+    
+    {
+    
+        "_id": "11",
+    
+        "name": "Black Bean Soup",
+    
+        "ingredients": ["Black beans", "Onion", "Garlic", "Cumin", "Broth"],
+    
+        "image": "https://therecipecritic.com/wp-content/uploads/2022/08/blackbeansoup-1-750x1000.jpg",
+    
+        "category": "soup",
+    
+        "price": 120
+    
+      },
+    
+      {
+    
+        "_id": "12",
+    
+        "name": "Chocolate Avocado Mousse",
+    
+        "ingredients": ["Chocolate", "Avocado", "Sugar", "Vanilla extract"],
+    
+        "image": "https://recipes.net/wp-content/uploads/portal_files/recipes_net_posts/2021-06/dark-chocolate-avocado-mousse-recipe.jpg",
+    
+        "category": "dessert",
+    
+        "price": 340
+    
+      },
+    
+      {
+    
+        "_id": "13",
+    
+        "name": "Chia Seed Pudding with Berries",
+    
+        "ingredients": ["Chia seeds", "Coconut milk", "Berries", "Honey"],
+    
+        "image": "https://simple-veganista.com/wp-content/uploads/2019/01/banana-chia-seed-pudding-2.jpg",
+    
+        "category": "dessert",
+    
+        "price": 250
+    
+      },
+    
+      {
+    
+        "_id": "14",
+    
+        "name": "Banana Chocolate Smoothie Bowl",
+    
+        "ingredients": ["Banana", "Chocolate", "Milk", "Yogurt", "Toppings (e.g., nuts, fruits)"],
+    
+        "image": "https://sunkissedkitchen.com/wp-content/uploads/2023/06/chocolate-smoothie-bowl-683x1024.jpg",
+    
+        "category": "dessert",
+    
+        "price": 400
+    
+      },
+    
+      {
+    
+        "_id": "15",
+    
+        "name": "Mango Sorbet",
+    
+        "ingredients": ["Mango", "Sugar", "Lemon juice"],
+    
+        "image": "https://www.thepetitecook.com/wp-content/uploads/2018/08/vegan-mango-sorbet-final.jpg",
+    
+        "category": "dessert",
+    
+        "price" : 400
+    
+    },
+    
+        {
+    
+            "_id": "16",
+    
+            "name": "Cheesecake",
+    
+            "category": "popular",
+    
+            "ingredients": ["Cream cheese", "Sugar", "Eggs", "Sour cream", "Butter", "Graham cracker crumbs"],
+    
+            "image": "https://theloopywhisk.com/wp-content/uploads/2021/05/White-Chocolate-Cheesecake_730px-featured.jpg",
+    
+            "price": 509
+    
+          },
+    
+          {
+    
+            "_id": "17",
+    
+            "name": "Tiramisu",
+    
+            "category": "dessert",
+    
+            "ingredients": ["Ladyfingers", "Espresso", "Mascarpone cheese", "Eggs", "Sugar", "Cocoa powder"],
+    
+            "image": "https://handletheheat.com/wp-content/uploads/2023/12/best-tiramisu-recipe-SQUARE.jpg",
+    
+            "price": 593
+    
+          },
+    
+          {
+    
+            "_id": "18",
+    
+            "name": "Pumpkin Spice Energy Bites",
+    
+            "category": "dessert",
+    
+            "ingredients": ["Pumpkin puree", "Oats", "Peanut butter", "Honey", "Pumpkin spice"],
+    
+            "image": "https://www.bakerita.com/wp-content/uploads/2019/09/Pumpkin-Spice-Energy-Bites.jpg",
+    
+            "price": 130
+    
+          },
+    
+          {
+    
+            "_id": "19",
+    
+            "name": "Vanilla Panna Cotta with Berry Compote", 
+            "category": "dessert",
+    
+            "ingredients": ["Gelatin", "Cream", "Sugar", "Vanilla", "Mixed berries"],
+    
+           "image": "https://img.taste.com.au/gz9Z2Ydv/w643-h428-cfill-q90/taste/2016/11/white-chocolate-panna-cotta-with-berries-75336-1.jpeg",
+    
+            "price": 550
+    
+          },
+    
+          {
+    
+            "_id": "20",
+    
+            "name": "Coconut Rice Pudding",
+    
+            "category": "dessert",
+    
+            "ingredients": ["Rice", "Coconut milk", "Sugar", "Vanilla extract"],
+    
+            "image": "https://www.foodandwine.com/thmb/Ycyoi3qQi_vEv4K2oAD3ssVWdiI=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/201001-xl-coconut-arborio-rice-pudding-3da0316cb76f4817ad522ba5db19e866.jpg",
+    
+            "price": 160
+    
+          },
+    
+      {
+    
+            "_id": "21",
+    
+            "name": "Green Smoothie",
+    
+            "category": "drinks",
+    
+            "ingredients": ["Spinach", "Kale", "Apple", "Banana", "Water"],
+    
+           "image": "https://www.cookingclassy.com/wp-content/uploads/2019/07/green-smoothie-10-768x1156.jpg",
+    
+            "price": 130
+    
+          },
+    
+          {
+    
+            "_id": "22",
+    
+            "name": "Mango Pineapple Smoothie",
+    
+            "category": "popular",
+    
+            "ingredients": ["Mango", "Pineapple", "Yogurt", "Ice"],
+    
+            "image": "https://www.theconsciousplantkitchen.com/wp-content/uploads/2022/07/Mango-Pineapple-Smoothie.jpg",
+    
+            "price": 150
+    
+          },
+    
+          {
+    
+            "_id": "23",
+    
+            "name": "Mango Pineapple Smoothie",
+    
+            "category": "drinks",
+    
+            "ingredients": ["Mango", "Pineapple", "Yogurt", "Ice"],
+    
+            "image": "https://www.theconsciousplantkitchen.com/wp-content/uploads/2022/07/Mango-Pineapple-Smoothie.jpg",
+    
+            "price": 150
+    
+          },
+    
+          {
+    
+            "_id": "24",
+    
+            "name": "Detox Water",
+    
+            "category": "drinks",
+    
+            "ingredients": ["Water", "Cucumber", "Lemon", "Mint"],
+    
+            "image": "https://static.toiimg.com/thumb/89683315.cms?width=680&height=512&imgsize=1406545",
+    
+            "price": 100
+    
+          },
+    
+          {
+    
+            "_id": "25",
+    
+            "name": "Berry Iced Tea",
+    
+            "category": "drinks",
+    
+            "ingredients": ["Tea", "Berries", "Ice", "Sugar"],
+    
+            "image": "https://www.torani.com/sites/default/files/recipes/illustration/Berry%20Neighborly%20Iced%20Tea.jpg",
+    
+            "price": 140
+    
+          },
+    
+          {
+    
+            "_id": "26",
+    
+            "name": "Mojito",
+    
+            "category": "drinks",
+    
+            "ingredients": ["White rum", "Fresh lime juice", "Mint leaves", "Simple syrup", "Club soda"],
+    
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj6fMcz5Y8GCy6ZW5kJavO4oAcMh9voujnZQmSJVzQBw&s",
+    
+            "price": 849
+    
+          },
+    
+          {
+    
+            "_id": "27",
+    
+            "name": "Espresso",
+    
+            "category": "drinks",
+    
+            "ingredients": ["Espresso beans"],
+    
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG9Ffj2Vg_gnfD6lRVikcjfjRT0kMQxECT0qcvEhZB_A&s",
+    
+            "price": 297
+    
+          },
+    
+          {
+    
+            "_id": "28",
+    
+            "name": "Lemonade",
+    
+            "category": "drinks",
+    
+            "ingredients": ["Lemon juice", "Water", "Sugar"],
+    
+            "image": "https://cdn.loveandlemons.com/wp-content/uploads/2022/06/lemonade.jpg",
+    
+            "price": 150
+    
+          },
+    
+          {
+    
+            "_id": "29",
+    
+            "name": "Pinot Noir",
+    
+            "category": "drinks",
+    
+            "ingredients": ["Pinot Noir grapes"],
+    
+            "image": "https://www.foodandwine.com/thmb/-InvzQnqmyP0kuiffsbMApmF3Rs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Wine-Guide-Pinot-Noir-FT-BLOG0822-2000-511cd043044e4fcfa9e932bd433472da.jpg",
+    
+            "price": 1104
+    
+          },
+    
+          {
+    
+            "_id": "30",
+    
+            "name": "Strawberry Smoothie",
+    
+            "category": "drinks",
+    
+            "ingredients": ["Strawberries", "Yogurt", "Milk", "Honey"],
+    
+            "image": "https://www.acouplecooks.com/wp-content/uploads/2020/04/Strawberry-Smoothie-003.jpg",
+    
+            "price": 573
+    
+          },
+    
+            {
+    
+              "_id": "31",
+    
+              "name": "Spaghetti Bolognese",
+    
+              "image": "https://supervalu.ie/thumbnail/1440x480/var/files/real-food/recipes/Uploaded-2020/spaghetti-bolognese-recipe.jpg",
+    
+              "category": "main",
+    
+              "price": 300,
+    
+              "ingredients": ["Spaghetti", "Ground beef", "Tomato sauce", "Onion", "Garlic", "Italian seasoning"]
+    
+            },
+    
+            {
+    
+              "_id": "32",
+    
+              "name": "Chicken Alfredo Pasta",
+    
+              "image": "https://www.budgetbytes.com/wp-content/uploads/2022/07/Chicken-Alfredo-V3-768x1024.jpg",
+    
+              "category": "popular",
+    
+              "price": 460,
+    
+              "ingredients": ["Pasta", "Chicken breast", "Alfredo sauce", "Garlic", "Parmesan cheese", "Parsley"]
+    
+            },
+    
+            {
+    
+              "_id": "33",
+    
+              "name": "Chicken Alfredo Pasta",
+    
+              "image": "https://www.budgetbytes.com/wp-content/uploads/2022/07/Chicken-Alfredo-V3-768x1024.jpg",
+    
+              "category": "main",
+    
+              "price": 460,
+    
+              "ingredients": ["Pasta", "Chicken breast", "Alfredo sauce", "Garlic", "Parmesan cheese", "Parsley"]
+    
+            },
+    
+            {
+    
+              "_id": "34",
+    
+              "name": "Vegetarian Stir-Fry",
+    
+              "image": "https://www.budgetbytes.com/wp-content/uploads/2022/03/Easy-Vegetable-Stir-Fry-V1-768x1024.jpg",
+    
+              "category": "main",
+    
+              "price": 130,
+    
+              "ingredients": ["Tofu", "Broccoli", "Carrot", "Bell pepper", "Soy sauce", "Ginger"]
+    
+            },
+    
+            {
+    
+              "_id": "35",
+    
+              "name": "Beef Tacos",
+    
+              "image": "https://blackstoneproducts.com/cdn/shop/articles/20230306234647-crispybeeftaco_sq.jpg?v=1678146572",
+    
+              "category": "main",
+    
+              "price": 340,
+    
+              "ingredients": ["Ground beef", "Taco shells", "Lettuce", "Tomato", "Cheese", "Salsa"]
+    
+            },
+    
+            {
+    
+              "_id": "36",
+    
+              "name": "Salmon with Lemon-Dill Sauce",
+    
+              "image": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2014/3/28/1/RX-DAISY_Grilled-salmon_s4x3.jpg.rend.hgtvcom.826.620.suffix/1396370205937.jpeg",
+    
+              "category": "main",
+    
+              "price": 500,
+    
+              "ingredients": ["Salmon fillet", "Lemon", "Dill", "Garlic", "Butter", "White wine"]
+    
+            },
+    
+            {
+    
+              "_id": "37",
+    
+              "name": "Vegetable Lasagna",
+    
+              "image": "https://cdn.loveandlemons.com/wp-content/uploads/2023/12/vegetarian-lasagna-recipe-580x799.jpg",
+    
+              "category": "main",
+    
+              "price": 460,
+    
+              "ingredients": ["Lasagna noodles", "Tomato sauce", "Zucchini", "Mushrooms", "Spinach", "Ricotta cheese"]
+    
+            },
+    
+            {
+    
+              "_id": "38",
+    
+              "name": "Shrimp Scampi",
+    
+              "image": "https://static01.nyt.com/images/2022/06/02/dining/ShrimpScampi_thumb/ShrimpScampi_thumb-master768-v2.jpg?w=1280&q=75",
+    
+              "category": "main",
+    
+              "price": 250,
+    
+              "ingredients": ["Shrimp", "Garlic", "Butter", "White wine", "Lemon juice", "Parsley"]
+    
+            },
+    
+            {
+    
+              "_id": "39",
+    
+              "name": "Chicken Parmesan",
+    
+              "image": "https://hips.hearstapps.com/hmg-prod/images/delish-202102-airfryerchickenparm-184-ls-1612561654.jpg?crop=1xw:0.84375xh;center,top&resize=1200:*",
+    
+              "category": "main",
+    
+              "price": 450,
+    
+              "ingredients": ["Chicken breast", "Breadcrumbs", "Marinara sauce", "Mozzarella cheese", "Parmesan cheese", "Basil"]
+    
+            },
+    
+            {
+    
+              "_id": "40",
+    
+              "name": "Vegetarian Enchilada",
+    
+              "image": "https://www.wellplated.com/wp-content/uploads/2017/11/Vegetarian-Enchiladas-with-Sweet-Potato-or-Butternut-Squash.jpg",
+    
+              "category": "main",
+    
+              "price": 500,
+    
+              "ingredients": ["Tortillas", "Black beans", "Corn", "Bell pepper", "Onion", "Enchilada sauce"]
+    
+            },
+    
+    {
+    
+                "_id": "41",
+    
+                "name": "Iced Matcha Latte",
+    
+                "category": "popular",
+    
+                "ingredients": ["Matcha powder", "Milk", "Honey", "Ice"],
+    
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn6eteNACJ4guCdO8Blp6-lMulHJuOLjJGnQKGiozJ6Q&s",
+    
+                "price": 250
+    
+              },
+    
+            {
+    
+                "_id": "42",
+    
+                "name": "Iced Matcha Latte",
+    
+                "category": "drinks",
+    
+                "ingredients": ["Matcha powder", "Milk", "Honey", "Ice"],
+    
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn6eteNACJ4guCdO8Blp6-lMulHJuOLjJGnQKGiozJ6Q&s",
+    
+                "price": 250
+    
+              },
+    
+              {
+    
+                "_id": "43",
+    
+                "name": "Blueberry Mojito",
+    
+                "category": "drinks",
+    
+                "ingredients": ["White rum", "Fresh blueberries", "Fresh lime juice", "Mint leaves", "Simple syrup", "Club soda"],
+    
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHR2N4_ASm0qJDIKI430GhCS5N3DBdkpxb6Xbwd_iyDw&s",
+    
+                "price": 320
+    
+              },{
+    
+                "_id": "44",
+    
+                "name": "Banana Bread",
+    
+                "category": "dessert",
+    
+                "ingredients": ["Bananas", "Flour", "Sugar", "Eggs", "Butter", "Baking soda"],
+    
+                "image": "https://www.simplyrecipes.com/thmb/tR-5eHAZ3lgNR6Yvu3yxdHMNpk8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Simply-Recipes-Easy-Banana-Bread-LEAD-2-2-63dd39af009945d58f5bf4c2ae8d6070.jpg",
+    
+                "price": 180
+    
+              }, {
+    
+                "_id": "45",
+    
+                "name": "Pineapple Upside-Down Cake",
+    
+                "category": "offered",
+    
+                "ingredients": ["Pineapple slices", "Maraschino cherries", "Brown sugar", "Butter", "Flour", "Eggs"],
+    
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTst3Sdyp-wPJQM32jeORqSVfpTXaprDgYnVLHnujespg&s",
+    
+                "price": 210
+    
+              },
+    
+              {
+    
+                "_id": "46",
+    
+                "name": "Strawberry Cheesecake",
+    
+                "category": "offered",
+    
+                "ingredients": ["Graham crackers", "Cream cheese", "Sugar", "Eggs", "Vanilla extract", "Strawberries"],
+    
+                "image": "https://natashaskitchen.com/wp-content/uploads/2023/06/Strawberry-Cheesecake-3.jpg",
+    
+                "price": 320
+    
+              },{
+    
+                "_id": "47",
+    
+                "name": "Chicken Fajitas",
+    
+                "category": "main",
+    
+                "ingredients": ["Chicken breast", "Bell peppers", "Onion", "Tortillas", "Fajita seasoning", "Lime"],
+    
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0XbBX9JGJ-0DBuLIJzpSiJ6uEuD5Gcnf2NYXxNmLJug&s",
+    
+                "price": 350
+    
+              },
+    
+              {
+    
+                "_id": "48",
+    
+                "name": "Beef Stir-Fry",
+    
+                "category": "popular",
+    
+                "ingredients": ["Beef sirloin", "Broccoli", "Carrot", "Bell pepper", "Soy sauce", "Garlic"],
+    
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5u15gs9jItq8Z75Z8K1HNjD1DjVPjU7z79tRsCQ2jXQ&s",
+    
+                "price": 420
+    
+              },
+    
+              {
+    
+                "_id": "49",
+    
+                "name": "Beef Stir-Fry",
+    
+                "category": "main",
+    
+                "ingredients": ["Beef sirloin", "Broccoli", "Carrot", "Bell pepper", "Soy sauce", "Garlic"],
+    
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5u15gs9jItq8Z75Z8K1HNjD1DjVPjU7z79tRsCQ2jXQ&s",
+    
+                "price": 420
+    
+              },
+    
+              {
+    
+                "_id": "50",
+    
+                "name": "Shrimp Pasta Primavera",
+    
+                "category": "offered",
+    
+                "ingredients": ["Shrimp", "Pasta", "Broccoli", "Bell peppers", "Tomatoes", "Parmesan cheese"],
+    
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9l5E1dgfX7O8VWLqXZ25MDlB__Etlhb4PlvE-IVKOw&s",
+    
+                "price": 380
+    
+              },  {
+    
+                "_id": "51",
+    
+                "name": "Vegetable Curry",
+    
+                "category": "offered",
+    
+                "ingredients": ["Potatoes", "Carrots", "Peas", "Cauliflower", "Coconut milk", "Curry powder"],
+    
+                "image": "https://theplantbasedschool.com/wp-content/uploads/2023/04/Vegetable-curry-1.jpg",
+    
+                "price": 290
+    
+              },
+    
+              {
+    
+                "_id": "52",
+    
+                "name": "Grilled Salmon",
+    
+                "category": "offered",
+    
+                "ingredients": ["Salmon fillet", "Lemon", "Garlic", "Dill", "Olive oil", "Salt"],
+    
+                "image": "https://www.thespruceeats.com/thmb/HgM2h42z1HGEcSWkWk5CgAjDDpQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/how-to-grill-salmon-2216658-hero-01-a9c948f8a238400ebaafc0caf509c7fa.jpg",
+    
+                "price": 480
+    
+              } 
+    
+     
+    
+    ]
